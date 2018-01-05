@@ -3,7 +3,7 @@ sap.ui.define([
 	"../TABLE/TableExampleUtils",
 	"sap/m/MessageToast",
 	"sap/m/MessageBox",
-	"sap/ui/model/json/JSONModel",
+	"sap/ui/model/json/JSONModel", 
 	"sap/ui/model/odata/ODataModel",
 	"sap/ui/model/resource/ResourceModel",
 	"sap/ui/table/SelectionMode",
